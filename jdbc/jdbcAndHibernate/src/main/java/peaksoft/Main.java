@@ -10,9 +10,9 @@ public class Main {
         //Util.getConnection();
         UserService userService=new UserServiceImpl();
         //userService.createUsersTable();
-        //userService.saveUser("Asman","Esenov",(byte)22);
+        //userService.saveUser("Asan","Asanov",(byte)22);
         //userService.getAllUsers().forEach(System.out::println);
-        //userService.removeUserById(1);
+        //userService.removeUserById(6);
         //userService.cleanUsersTable();
         userService.dropUsersTable();
     }

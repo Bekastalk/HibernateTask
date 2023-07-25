@@ -1,6 +1,6 @@
 package peaksoft.dao;
 
-import peaksoft.model.User;
+import peaksoft.entity.User;
 
 import java.util.List;
 
